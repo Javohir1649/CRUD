@@ -16,4 +16,5 @@ var posts []Post = []Post{}
 
 func main() {
 	router := mux.NewRouter()
+
 }
